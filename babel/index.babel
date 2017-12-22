@@ -33,7 +33,7 @@ var RawInput = React.createClass({
         this.props.updateValue(modifiedValue);
     },
     render:function(){
-        return (<textarea rows="22" type="text" ref="inputValue" value={this.props.value} onChange={this.update} className="form-control" />)
+        return (<textarea type="text" ref="inputValue" value={this.props.value} onChange={this.update} className="form-control" />)
     }
 });
  
