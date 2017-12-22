@@ -1,10 +1,10 @@
 .container
-  margin-top: 20%
+  margin-top: 20px
   font-family: 'Raleway', sans-serif
 
 
 textarea
-  margin-top: 20%
+  margin-top: 20px
   resize: vertical
   height: 100%
   font-family: 'Roboto', sans-serif
