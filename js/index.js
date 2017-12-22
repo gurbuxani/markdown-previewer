@@ -41,7 +41,7 @@ var RawInput = React.createClass({
         this.props.updateValue(modifiedValue);
     },
     render: function render() {
-        return React.createElement("textarea", { rows: "22", type: "text", ref: "inputValue", value: this.props.value, onChange: this.update, className: "form-control" });
+        return React.createElement("textarea", { rows: "50", type: "text", ref: "inputValue", value: this.props.value, onChange: this.update, className: "form-control" });
     }
 });
 
