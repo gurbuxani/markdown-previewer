@@ -1,6 +1,3 @@
-Markdown Previewer
------------------------------
-
 A Pen created at CodePen.io. You can find this one at https://codepen.io/freeCodeCamp/pen/JXrLLE.
 
  React Zipline: Markdown Preview App
